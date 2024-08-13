@@ -12,7 +12,7 @@
 body {
     font-family: 'Outfit', sans-serif;
     background-color: #f7f0e8;
-    margin: 0;
+    margin-top: 5rem;
     padding: 0;
     font-size: 1rem;
     /* Default 16px */
@@ -55,7 +55,7 @@ figure {
     /* 16px / 16 = 1rem */
 }
 
-.container {
+.container-prep {
     font-family: 'Outfit', sans-serif;
     color: hsl(24, 5%, 18%);
     background-color: hsl(330, 100%, 98%);
